@@ -72,6 +72,9 @@ nav a:hover {
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+} 
+.active-page {
+    color: darkred;
 }
 
 table {
